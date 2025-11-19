@@ -1,1 +1,4 @@
 This repo will be used to study how the YOLO algorithm  works and also to develop a custom solution with it based on prior knowledge 
+
+FOOD polygon: 
+makesense.ai

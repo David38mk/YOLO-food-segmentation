@@ -1,0 +1,11 @@
+ultralytics 
+tabulate
+pandas
+seaborn
+matplotlib
+numpy
+scikit-learn
+tensorflow
+opencv-python
+pillow
+segment-anything
