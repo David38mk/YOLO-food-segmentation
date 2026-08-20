@@ -1,0 +1,42 @@
+# ---- datasets & images (heavy + privacy-sensitive Emteq photos) ----
+data/
+raw_data/
+yolo/
+yolo_final/
+
+# ---- model weights & training artifacts (heavy binaries) ----
+models/
+runs/
+*.pt
+*.onnx
+*.tflite
+*.npy
+
+# ---- papers (unpublished manuscripts, do not push before publication) ----
+paper/
+paper_v2/
+*.docx
+*.doc
+*.pdf
+*.pptx
+
+# ---- python ----
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+.ipynb_checkpoints/
+
+# ---- IDE / OS ----
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ---- misc local ----
+*.log
+*.zip
